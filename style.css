@@ -1,0 +1,24 @@
+
+
+.main tr td, th{
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+
+    
+    
+    
+}
+.blaj{
+    border: 1px solid black;
+    background-color: silver;
+    border-collapse: collapse;
+}
+.main tr td:hover{
+    background-color: blueviolet;
+}
+.head:hover{
+    background-color: blue;
+
+}
